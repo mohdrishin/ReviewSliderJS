@@ -106,11 +106,11 @@
     display: flex;
     justify-content: space-between;
 }
-.review-box .button-container #left-button{
+.review-box .button-container .left-button{
     margin-right: 18px;
     color: rgb(38, 241, 241);
 }
-.review-box .button-container #right-button{
+.review-box .button-container .right-button{
     color: rgb(38, 241, 241);
 }
 
